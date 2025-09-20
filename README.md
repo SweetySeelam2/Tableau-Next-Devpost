@@ -36,8 +36,6 @@ The dashboard includes **Q&A natural language queries**, starter questions, and 
 
 📌 *Insight:* Revenue growth strong in East & North, but churn elevated in Standard plans. Support ticket spikes reduce CSAT and retention.
 
----
-
 ### Revenue Insights
 - **Revenue by Product & Region:**  
   - Enterprise drives ~`240K`  
@@ -48,23 +46,17 @@ The dashboard includes **Q&A natural language queries**, starter questions, and 
   - Strongest peaks in **Jun–Aug** (~`21K–24K` monthly in South & North).  
   - West consistently underperforms across months.
 
----
-
 ### Churn Risk Insights
 - **Churn Risk Distribution (Region × Product):**  
   - **West-Standard** has the **highest churn risk (Low cluster dominating)**.  
   - East-Pro and South-Pro show moderate churn but manageable.  
   - Enterprise is relatively stable with lower churn risk.
 
----
-
 ### Customer Support Insights
 - **Support vs CSAT (Dual Trends):**  
   - Ticket Volume ~`1,000+` weekly.  
   - Avg CSAT steady at `4.0–4.2` but dips below `4.0` in late July (support spikes).  
   - Negative correlation: higher tickets → lower CSAT.
-
----
 
 ### Targets vs Actuals
 - **Actual Monthly Recurring Revenue (MRR) Performance by Month:**  

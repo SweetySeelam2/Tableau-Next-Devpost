@@ -131,4 +131,4 @@ By linking insights to financial outcomes, it ensures **data-driven decisions wi
 ---
 
 ## Project Links
-**Video Demo:** 
+**Video Demo:** https://youtu.be/yEU4PtxQY-w

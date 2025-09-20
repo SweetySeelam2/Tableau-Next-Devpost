@@ -45,7 +45,7 @@ The dashboard includes **Q&A natural language queries**, starter questions, and 
   - Standard lags at ~`150K` (highest churn risk product).  
 
 - **Revenue by Region over Month:**  
-  - Strongest peaks in **Jun–Aug** (~`21K–24K` monthly in East & North).  
+  - Strongest peaks in **Jun–Aug** (~`21K–24K` monthly in South & North).  
   - West consistently underperforms across months.
 
 ---
@@ -75,7 +75,7 @@ The dashboard includes **Q&A natural language queries**, starter questions, and 
   - Targets in Jun–Aug ~`75K–80K` (slightly higher than actuals).  
   - Other months steady at ~`38K–40K`.
 
-📌 *Gap:* Actual revenue exceeded targets in Q2 but dipped in Q3. CSAT remains below expectations.
+📌 *Gap:* Actual revenue exceeded targets in Q2 but dipped in Q3 and Q4. CSAT remains below expectations.
 
 ---
 
